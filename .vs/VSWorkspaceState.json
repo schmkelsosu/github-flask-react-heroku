@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.venv\\Scripts",
+    "\\backend",
+    "\\frontend",
+    "\\frontend\\build",
+    "\\frontend\\src",
+    "\\frontend\\src\\Components",
+    "\\frontend\\src\\Components\\BackendTest"
+  ],
+  "SelectedNode": "\\frontend\\.gitignore",
+  "PreviewInSolutionExplorer": false
+}
